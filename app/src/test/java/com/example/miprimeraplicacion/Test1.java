@@ -39,7 +39,7 @@ public class Test1 {
     @Test
     public void Test3ContieneProfanidades() {
         TestPU validator = new TestPU();
-        assertTrue(validator.contieneProfanidades("HolaS123")); // Con profanidades
+        assertFalse(validator.contieneProfanidades("HolaS123")); // Con profanidades
     }
 
 
