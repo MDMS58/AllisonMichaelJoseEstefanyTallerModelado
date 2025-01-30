@@ -132,7 +132,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="0dp"
                 android:background="@color/white"
-                android:hint="@string/select"
+
                 style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
                 >
 
