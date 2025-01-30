@@ -42,6 +42,8 @@ public class Test1 {
         assertFalse(validator.contieneProfanidades("HolaS123")); // Con profanidades
     }
 
+    
+
 
 
 }
